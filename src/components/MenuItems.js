@@ -9,7 +9,7 @@ export const MenuItems=[
         title : "Guidelines",
         url : "/guidelines",
         cName : "nav-links",
-        icon : "fa-light fa-users"
+        icon : "fa-regular fa-file-lines"
     },
     {
         title : "SlotBook",
@@ -21,7 +21,7 @@ export const MenuItems=[
         title: "FareFunds",
         url: "/travelre",
         cName: "nav-links",
-        icon: "fa-sharp fa-regular fa-map-pin"
+        icon: "fa-solid fa-indian-rupee-sign"
     },
     {
         title: "Electiongram",
@@ -45,7 +45,7 @@ export const MenuItems1 = [
         title : "Guidelines",
         url : "/guidelines",
         cName : "nav-links",
-        icon : "fa-light fa-users"
+        icon : "fa-regular fa-file-lines"
     },
   
     
